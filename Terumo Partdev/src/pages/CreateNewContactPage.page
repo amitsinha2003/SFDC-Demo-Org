@@ -1,0 +1,9 @@
+<!-- Name    : CreateNewContactPage -->
+<!-- Author : Deloitte Consulting -->
+<!-- Desc    : This page overrides the standard Create page for Contact -->
+<apex:page controller="CreateNewContactController">
+<!-- <apex:page standardController="Contact" extensions="CreateNewContactController" > -->
+    <!-- <apex:detail subject=""/> -->
+
+    Testing
+</apex:page>
